@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: dd830163-deed-464c-999f-b9ad159a90a5
-  WEBAPP-NAME: az400-webapp-cvisa
+  WEBAPP-NAME: az400-webapp-cvisa2023
 
 
 jobs:
